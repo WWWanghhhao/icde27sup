@@ -1,0 +1,8 @@
+{
+  "seq_len": 192,
+  "learning_rate": 0.01,
+  "order": 2,
+  "batch_size": 512,
+  "epochs": 100,
+  "device": "cuda:0"
+}

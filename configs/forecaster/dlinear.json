@@ -1,0 +1,14 @@
+{
+  "seq_len": 192,
+  "label_len": 0,
+  "enc_in": 25,
+  "dec_in": 25,
+  "c_out": 1,
+  "learning_rate": 0.0005,
+  "batch_size": 256,
+  "epochs": 6,
+  "lradj": "type1",
+  "device": "cuda:0",
+  "individual": false
+}
+

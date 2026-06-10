@@ -1,0 +1,15 @@
+{
+  "seq_len": 192,
+  "enc_in": 25,
+  "c_out": 1,
+  "d_model": 256,
+  "e_layers": 3,
+  "dropout": 0.1,
+  "patch_size": 8,
+  "stride": 4,
+  "batch_size": 16,
+  "epochs": 10,
+  "lradj": "type1",
+  "device": "cuda:0",
+  "learning_rate": 0.0001
+}

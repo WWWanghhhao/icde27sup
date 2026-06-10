@@ -1,0 +1,24 @@
+{
+  "seq_len": 192,
+  "e_layers": 3,
+  "output_attention": true,
+  "moving_avg": 25,
+  "enc_in": 25,
+  "dec_in": 25,
+  "c_out": 1,
+  "d_model": 512,
+  "embed": "timeF",
+  "freq": "h",
+  "dropout": 0.05,
+  "factor": 1,
+  "n_heads": 8,
+  "d_ff": 512,
+  "activation": "gelu",
+  "learning_rate": 0.0005,
+  "batch_size": 256,
+  "epochs": 5,
+  "lradj": "type1",
+  "device": "cuda:0",
+  "k": 3
+}
+

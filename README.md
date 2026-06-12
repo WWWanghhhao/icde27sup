@@ -1,10 +1,15 @@
-## Supplementary Material: Datasets, Baselines, and Evaluation Metrics
+## Supplementary Material: Datasets, Results, Baselines, and Evaluation Metrics
 
 ### Datasets
 
 The five datasets can be accessed at the following Google Drive link:
 
 [Access the five datasets](https://drive.google.com/file/d/1V5BAHWBKU8uih3hE1R7WdF6_crZlIbQT/view?usp=drive_link)
+
+### Results
+
+Due to the space limitation, supplementary experiments results are reported in [Scalability Results](Exp_results/scalability_results.md) and [Sensitivity Results](Exp_results/sensitivity_results.md).
+
 
 ### Baselines
 
